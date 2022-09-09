@@ -1,0 +1,56 @@
+li {
+	color: rebeccapurple;
+}
+
+li.pynkt {
+	color: brown;
+}
+
+.zagolovok {
+	color: goldenrod;
+}
+
+h3.zmist {
+	color: palevioletred;
+}
+
+.text,
+.terminovo {
+	color: darkred;
+}
+
+p {
+	color: rosybrown;
+}
+
+a {
+	color: darkblue;
+}
+
+span {
+	color: red;
+}
+
+mark {
+	color: darkorange;
+}
+
+.text~p {
+	color: darkolivegreen;
+}
+
+.link {
+	color: orangered;
+}
+
+h4.zagolovok {
+	color: blue;
+}
+
+h4 {
+	color: crimson;
+}
+
+#zakon {
+	color: green;
+}
